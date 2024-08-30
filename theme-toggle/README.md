@@ -11,7 +11,7 @@ Theme Toggle: Switch between light and dark themes with a single button click.
 
 ### Clone the Repository:
 
-git clone https://github.com/Karu555/themeToggle.git
+https://github.com/Karu555/themeToggle/tree/main/theme-toggle
 
 ### Navigate to the Project Directory:
 
